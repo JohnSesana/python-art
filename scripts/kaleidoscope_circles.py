@@ -44,6 +44,7 @@ def main():
         i = i + 1
         if i == 10:
             artist.clear()
+            i = 0
         # Draw the rotated circles with random colors
         color = random.choice(colors)  # Pick a random color from the list
         draw_rotated_circles(radius, num_circles, angle_step, color)

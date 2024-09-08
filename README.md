@@ -25,16 +25,16 @@ To create your own turtle art or run the existing scripts, you'll need Python in
    cd python-art
    ```
 
-2.Install Python: Make sure you have Python 3 installed. You can download it from python.org.
+2. **Install Python**: Make sure you have Python 3 installed. You can download it from python.org.
 
-3. Run the scripts: Each Python script can be executed individually to generate a different piece of art. For example:
+3. **Run the scripts**: Each Python script can be executed individually to generate a different piece of art. For example:
 
 ```bash
 cd scripts
 python kaleidoscope_circles.py
 ```
 
-4.Explore and create: Modify the code to experiment with new shapes, colors, and designs!
+4. **Explore and create**: Modify the code to experiment with new shapes, colors, and designs!
 
 ## License
 
